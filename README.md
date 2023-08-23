@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=8E40A9&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Ol%C3%A1!+Me+chamo+Isabelle...)](https://git.io/typing-svg)
+
  Tenho 22 anos, sou de Minas Gerais e a tecnologia sempre foi muito presente na minha vida e hoje em dia estou cursando Análise e Desenvolvimento De Sistemas, me interesso muito por desenvolvimento Front-end.
  
 <hr>
